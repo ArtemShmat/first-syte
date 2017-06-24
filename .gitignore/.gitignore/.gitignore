@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>UPQODE</title>
+        <link rel="stylesheet" type="text/css" href="css.css" >
+    </head>
+  <body>
+   <header class="main-header">
+       <div class="container-1">
+           <div class="main-logo">
+               <nav class="main-logo-first">UP</nav><nav class="main-logo-second">QODE</nav>
+           </div>
+           <nav class="main-navigation">
+               <ul>
+                   <li><a href="#">Home</a>
+                   </li>
+                   <li class="more-manu"><a href="#">Products</a>
+                        <ul>
+                           <li><a href="#">Name Surname</a></li>
+                           <li><a href="#">Nelson Noa Chris</a></li>
+                           <li><a href="#">Name Surname</a></li>
+                           <li><a href="#">Nelson Noa</a></li>
+                        </ul>
+                   </li>
+                   <li><a href="#">About</a>
+                   </li>
+                   <li><a href="#">Contact</a>
+                   </li>
+               </ul>
+           </nav>
+           <div class"search">
+               <form>
+                   <input type="text" class="search-1">
+               </form>
+           </div>
+           <div class="user-block">
+           </div>
+       </div>
+   </header>
+      <main class="container">
+   <main class="main-container">
+       <div class="mc-main">
+           <h1 CLASS="mc-main-h1-1 thead">CREATIVE</h1><h1 class="mc-main-h1-2 thead">DESIGN AGENCY</h1><br>
+           <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit<br> non mi porta gravida at eget metus/ Curabitur blandit tempus porttitor</p>
+       </div>
+    </main>
+    <main class="main-container-1">
+        <div class="mc-1-1">
+        <div class="mc-1-text">
+            <h2 class="mc-1-h2-color-1">WHY</h2>
+            <h2 class="mc-1-h2-color-2">CHOOSE US</h2>
+            <p  class="part2-text"> Quisque fermentum, nisl mattis volutrat rhoncus, tellus est congue nibh, ut euismod quam nisi quis felis.<br>
+            Nullam at scelerisque tellus mattis volutrap rhoncus.  </p>
+        </div>
+        
+        <div class="mc-1-windows">
+            <div class="win-1">
+              <div class="win-1-1"></div>
+              <div class="win-1-2">
+                  <h3>YOUR TITLE</h3>    
+                  <p>1111  </p>
+              </div>            
+            </div>
+            
+            
+            <div class="win-2"></div>
+            <div class="win-3"></div>
+            <div class="win-4"></div>
+            <div class="win-5"></div>
+        </div>
+        </div>
+    </main>
+        <main class="main-container-2">
+            <svg>
+                <polygon points="0,0 1600,0 1600,120 0,120" />
+            </svg>
+            <div class="mc-2-1"></div>
+            <div class="mc-2-2"></div>
+            <div class="mc-2-3"></div>
+            <div class="mc-2-4"></div>  
+            <div class="mc-2-5"></div>  
+            <div class="mc-2-6"></div>  
+          </main>
+        <main class="main-container-3">
+            <div class="mc-3-text"></div>
+            <div class="mc-3-map"></div>
+        </main>
+      </main>
+      <footer>
+      </footer>
+    
+    </body>
+</html>
