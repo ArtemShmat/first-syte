@@ -8,7 +8,7 @@ body {
 html, 
 body {
    width: 1600px;
-    min-height: 400px;
+    min-height: 4000px;
     margin: 0px;
     padding: 0px;
 }
@@ -16,7 +16,7 @@ body {
     min-height: 72px;
     width: 1600px;
     background: white;
-    position: fixed;
+    position: --fixed;
 }
 .main-logo {
     width: 300px;
@@ -147,12 +147,76 @@ p {
     font-size: 16px;
     line-height: 30px;
 }
-
+/*Параметри першого блоку*/
+.container {
+    height: 4000px;
+    width: 1600px;
+}
+.main-container-1 {
+    height: 800px;
+    width: 1600px;
+    
+}
+.mc-1-text {
+    height: 162px;
+    width: 1600px;
+    background: white;
+}
+.mc-1-map {
+    height: 638px;
+    width: 1600px;
+    background-image: url(map.jpg);
+}
+.map-2 {
+    height: 638px;
+    width: 1600px;
+    background: black;
+    opacity: 0.5;
+}
+.map-2-forms {
+    height: 435px;
+    width: 1600px;
+    background: white;
+}
+.f-text {
+    width: 110px;
+    height: 30px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.f-email {
+    width: 150px;
+    height: 30px;
+    position: relative;
+    top: 20px;
+    left: 110px;
+}
+.f-textarea {
+     position: relative;
+    top: 130px;
+    left: -180px;
+    text-align: left;
+}
+.f-check {
+    position: relative;
+    left: 50px;
+    top: 150px;
+}
+.text {position: relative
+       top: 50px;
+left: 150px;}
 .mc-1-1 {
     height: 691px;
     width: 1600px;
     background: #ffffff;
- 
+}
+
+/*Параметри третього блоку*/
+ .main-container-3 {
+    height: 800px;
+    width: 1600px;
+     background-image: url(map.jpg);
 }
 .mc-1-text {
     height: 250px;
